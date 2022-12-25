@@ -1,0 +1,34 @@
+/*Section Principale */
+.container {
+    background-image: url('image1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+}
+#container_row {
+    height: 500px;
+}
+#container_font {
+    margin-top: 100px;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: fantasy;
+}
+#container_p {
+    color: white; 
+    font-size: 30px; 
+    font-family: fantasy;
+}
+
+h1, button {
+    display: inline-flex;
+}
+
+a {
+    color: white;
+}
+
+.learn {
+    color: rgb(38, 38, 244);
+}
